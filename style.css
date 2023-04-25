@@ -1,0 +1,11 @@
+img {
+	height: 300px;
+	width: 300px;
+	margin: 0px;
+}
+
+.slider {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
