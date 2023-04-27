@@ -5,7 +5,21 @@ img {
 }
 
 .slider {
+	height: 99vh;
 	display: flex;
 	justify-content: center;
 	align-items: center;
+}
+
+.slider > div {
+	margin: 5px;
+}
+
+.slider > button {
+	cursor: pointer;
+	background: none;
+	border: none;
+	border-radius: 10px;
+	background-color: rgba(110, 110, 110, 0.2);
+	font-size: 8vh;
 }
